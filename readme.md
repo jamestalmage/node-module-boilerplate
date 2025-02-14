@@ -1,19 +1,10 @@
-# node-module-boilerplate
-
-> Boilerplate to kickstart creating a Node.js module
-
-This is what I use for [my own modules](https://www.npmjs.com/~sindresorhus).
-
-Also check out [`node-cli-boilerplate`](https://github.com/sindresorhus/node-cli-boilerplate).
-
 ## Getting started
 
-**Click the "Use this template" button.**
-
-Alternatively, create a new directory and then run:
+This is my customized version of the boilerplate. You should start with sindresorhus's original version.
+I've got a day job and will only be updating sporadically.
 
 ```sh
-curl -fsSL https://github.com/sindresorhus/node-module-boilerplate/archive/main.tar.gz | tar -xz --strip-components=1
+curl -fsSL https://github.com/jamestalmage/node-module-boilerplate/archive/jamestalmage.tar.gz | tar -xz --strip-components=1
 ```
 
 ---
