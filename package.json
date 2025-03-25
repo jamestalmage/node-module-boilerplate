@@ -41,8 +41,10 @@
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^7.0.0",
 		"ava": "^6.2.0",
-		"typescript": "^5.7.3",
+		"eslint": "^8.57.1",
+		"eslint-config-xo-typescript": "^7.0.0",
 		"tsimp": "^2.0.12",
+		"typescript": "^5.8.2",
 		"xo": "^0.60.0"
 	}
 }
